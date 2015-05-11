@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Rong's Blog]]></title>
-  <link href="http://www.muduo.org/atom.xml" rel="self"/>
-  <link href="http://www.muduo.org/"/>
-  <updated>2015-05-11T11:59:24+08:00</updated>
-  <id>http://www.muduo.org/</id>
+  <link href="http://r0ng.github.io/atom.xml" rel="self"/>
+  <link href="http://r0ng.github.io/"/>
+  <updated>2015-05-11T12:17:42+08:00</updated>
+  <id>http://r0ng.github.io/</id>
   <author>
     <name><![CDATA[Rong]]></name>
     
